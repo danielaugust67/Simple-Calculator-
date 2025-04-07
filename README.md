@@ -9,7 +9,9 @@ Sebuah aplikasi kalkulator sederhana berbasis React, dibuat menggunakan Vite dan
 - Dibuat dengan React + Vite
 
 
-![Demo Calculator](./assets/demo.gif)
+<div align="center">
+  <img src="./assets/demo.gif" alt="Demo" />
+</div>
 
 
 ## 🛠️ Cara Menjalankan di Lokal
