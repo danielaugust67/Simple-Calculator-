@@ -15,8 +15,7 @@ Sebuah aplikasi kalkulator sederhana berbasis React, dibuat menggunakan Vite dan
 ```bash
 git clone https://github.com/danielaugust67/Simple-Calculator-React.git
 
-2. **Install Depedency:**
-
+2. **Clone repository**
 ```bash
 npm install
 
