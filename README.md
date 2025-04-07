@@ -14,11 +14,13 @@ Sebuah aplikasi kalkulator sederhana berbasis React, dibuat menggunakan Vite dan
 
 ```bash
 git clone https://github.com/danielaugust67/Simple-Calculator-React.git
-
-2. **Install Depedency:**
+```
+2. **Install Depedenciy**
 
 ```bash
 npm install
-
+```
+```bash
 npm run dev
+```
 
